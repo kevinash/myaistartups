@@ -2,7 +2,7 @@
 
 ## My AI Startups - Season 1 
 
-[![http://myaistartups.com](images/myaistartups-s1e1.jpg.jpg)](http://myaistartups.com)
+[![http://myaistartups.com](images/myaistartups-s1e1.jpg)](http://myaistartups.com)
 
 Season 1 Episode 1 - Startups Portfolio
 
