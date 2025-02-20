@@ -20,6 +20,8 @@ AI Coaching is our joint project with the US Olympic and Paralympic Committee th
 
 [aicoaching.us](https://aicoaching.us)
 
+**Customers**: US Olympic and Paralympic Committee, National Governing Bodies: US Figure Skating, US Wrestling, USA Surfing, US Biathlon, US Gymnastics.
+
 **VALUATION**
 
 2025 Valuation. Here's how it breaks down:
