@@ -4,6 +4,8 @@
 
 [![http://myaistartups.com](images/myaistartups-s1e1.jpg)](http://myaistartups.com)
 
+*** COMING SOON !!! ***
+
 Season 1 Episode 1 - Startups Portfolio
 
 Stay tuned for the new show in town!My name is Kevin Ashley, in this video blog I'll share live stories of building AI startups from the ground up. For 11 years I worked at Microsoft, then on AI team at Google. I'll share my uncensored and unapologetic experience of building AI startups as it happens. In fact some of my new startups we'll start together as this podcast unfolds.
