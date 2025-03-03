@@ -1,6 +1,6 @@
 [![http://myaistartups.com](images/my-ai-startups-logo.png)](http://myaistartups.com)
 
-My AI Startups is a Venture Capital and the 1st AI franchise that helps startups funding AI Projects.
+My AI Startups is an AI engineers and data-scientist funded Venture Capital and franchise that helps businesses launching AI projects. Lower the risks and costs of your AI projects with our unique AI Blueprint platform and get funded.
 
 ## My AI Startups - Season 1 
 
