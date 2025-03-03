@@ -4,7 +4,7 @@ My AI Startups is a Venture Capital and the 1st AI franchise that helps startups
 
 ## My AI Startups - Season 1 
 
-[![My AI Startupe - Episode 1](https://img.youtube.com/vi/YbPU1ZQO82k/0.jpg)](https://youtu.be/YbPU1ZQO82k)
+[![My AI Startupe - Episode 1](https://img.youtube.com/vi/YbPU1ZQO82k/0.jpg)](https://youtu.be/YbPU1ZQO82k)]
 
 **COMING SOON !!!**
 
