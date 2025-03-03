@@ -1,4 +1,4 @@
-[![http://myaistartups.com](images/MyAIStartups-logo-white.jpg)](http://myaistartups.com)
+[![http://myaistartups.com](images/my-ai-startups-logo.png)](http://myaistartups.com)
 
 My AI Startups is a Venture Capital and the 1st AI franchise that helps startups funding AI Projects.
 
