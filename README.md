@@ -1,6 +1,6 @@
 [![http://myaistartups.com](images/my-ai-startups-logo.png)](http://myaistartups.com)
 
-My AI Startups is an AI engineers and data-scientist funded Venture Capital and franchise that helps businesses launching AI projects. Lower the risks and costs of your AI projects with our unique AI Blueprint platform and get funded.
+My AI Startups VC is founded by AI engineers and data-scientists. We are a Venture Capital and AI franchise that helps businesses launching AI projects. Lower the risks and costs of your AI projects with our unique AI Blueprint platform and get funded.
 
 ## My AI Startups - Season 1 
 
