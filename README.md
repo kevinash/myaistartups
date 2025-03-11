@@ -4,31 +4,35 @@ MyAIStartups.com is a venture capital group founded by real AI data scientists a
 
 Check My AI Startups video blogs for latest updates!
 
-## My AI Startups - Sportube AI for YouTube videos
+## My AI Startups Highlights - Sportube AI for YouTube 
 
 [![My AI Startups - Sportube AI for sport YouTube videos](images/sportube-ai-video.jpg)](https://youtu.be/3keuGaGksC4)
 
 Sportube AI - [Watch on YouTube](https://youtu.be/3keuGaGksC4)
 
-### AI analytics for any YouTube sport videos
+### Sportube AI analytics for any YouTube sport videos
 
 Sportube AI provides professional insights for any YouTube sport videos. It's like having a professional AI coach that can answer your questions about YouTube sport videos, shorts, matches, sport events and competitions. 
 
-[![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
+#### More videos about Sportube
 
-## My AI Startups - How we invest
+* [Sportube - Sport analytics for YouTube 2](https://youtu.be/vUVNPBxdrdE)
+* [Sportube - Sport analytics for YouTube 1](https://youtu.be/fJZriI9kFlI)
+* [Sportube - Intro 2](https://youtu.be/xu1al7CEg_k)
+* [Sportube - Intro 1](https://youtu.be/JRkqy7U6qkc)
 
-[![My AI Startupe - How we Invest](images/myaistartups-s1e1.jpg)](https://youtu.be/YbPU1ZQO82k)
+
+## My AI Startups - Our Startups Portfolio
+
+[![My AI Startups - Our Startups Portfolio](images/myaistartups-s1e1.jpg)](https://youtu.be/YbPU1ZQO82k)
 
 How we invest - [Watch on YouTube](https://youtu.be/YbPU1ZQO82k)
-
-### In the first episode - startups portfolio
 
 Stay tuned for the new show in town! My name is Kevin Ashley, in this video blog I'll share live stories of building AI startups from the ground up. For 11 years I worked at Microsoft, then on AI team at Google. I'll share my uncensored and unapologetic experience of building AI startups as it happens. In fact some of my new startups we'll start together as this podcast unfolds.
 
 [![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
 
-### Season 1 Episode 2 - AI Coaching
+### My AI Startups Highlights - AI Coaching
 
 [![AI Coaching](images/ai-coaching-thumbnail.jpg)](https://aicoaching.us)
 
@@ -38,7 +42,7 @@ AI Coaching is our joint project with the US Olympic and Paralympic Committee th
 
 **Customers**: US Olympic and Paralympic Committee, National Governing Bodies: US Figure Skating, US Wrestling, USA Surfing, US Biathlon, US Gymnastics.
 
-### AI Agents for Business - AGENTOMAT AaaS
+### My AI Startups Highlights - AI Agents for Business - AGENTOMAT AaaS
 
 [![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
 
@@ -48,7 +52,7 @@ New AI platform to accelerate your AI solutions. If you are thinking of starting
 
 [Agents as a Service for Business (AaaS)](https://agentomat.com)
 
-###  Livebook AI - E-Commerce AI
+### My AI Startups Highlights - Livebook AI - E-Commerce
 
 [![Livebook](images/livebookai.jpg)](https://livebookai.com)
 
@@ -56,13 +60,13 @@ Livebook AI is the first publicly available AI Agent, that has been running cont
 
 [livebookai.com](https://livebookai.com)
 
-### 1+AI - New Business Model
+### My AI Startups Highlights 1+AI - Our Business Model
 
 [![http://myaistartups.com](images/1plus-ai.jpg)](http://myaistartups.com)
 
 1+AI is a new buisiness model we offer to our customers, based on AI Blueprint platform we developed. Let us build your solution, using our 1+AI development model that consists of a single human engineer + AI. We deliver end-to-end AI solutions for businesses requiring deep AI expertise, AI Agents, Web and mobile applications using AI, AI Search, support and other custom solutions, on any cloud platform.
 
-#### Our Showcase
+#### My AI Startups - Our Showcase
 
 These projects were created by a single human + AI, based on AI Blueprint framework which includes a mobile Web app, customized flexible AI models, agents, security and more:
 
