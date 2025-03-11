@@ -1,12 +1,26 @@
 [![http://myaistartups.com](images/my-ai-startups-logo.png)](http://myaistartups.com)
 
-My AI Startups VC is founded by AI engineers and data-scientists. We are a Venture Capital and AI franchise that helps businesses launching AI projects. Lower the risks and costs of your AI projects with our unique AI Blueprint platform and get funded.
+MyAIStartups.com is a venture capital group founded by real AI data scientists and engineers - we are not just investors - we ultimately know AI and products. For all startups in our portfolio, we offer AI Blueprint - the platform that lowers the risks, entry barriers and costs of launchinjg your AI projects  from scratch.
 
-## My AI Startups - Season 1 
+Check My AI Startups video blogs for latest updates!
 
-[![My AI Startupe - Episode 1](images/myaistartups-s1e1.jpg)](https://youtu.be/YbPU1ZQO82k)
+## My AI Startups - Sportube AI for YouTube videos
 
-Episode 1 - [Watch on YouTube](https://youtu.be/YbPU1ZQO82k)
+[![My AI Startups - Sportube AI for sport YouTube videos](images/sportube-ai-video.jpg)](https://youtu.be/3keuGaGksC4)
+
+Sportube AI - [Watch on YouTube](https://youtu.be/3keuGaGksC4)
+
+### AI analytics for any YouTube sport videos
+
+Sportube AI provides professional insights for any YouTube sport videos. It's like having a professional AI coach that can answer your questions about YouTube sport videos, shorts, matches, sport events and competitions. 
+
+[![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
+
+## My AI Startups - How we invest
+
+[![My AI Startupe - How we Invest](images/myaistartups-s1e1.jpg)](https://youtu.be/YbPU1ZQO82k)
+
+How we invest - [Watch on YouTube](https://youtu.be/YbPU1ZQO82k)
 
 ### In the first episode - startups portfolio
 
@@ -24,20 +38,7 @@ AI Coaching is our joint project with the US Olympic and Paralympic Committee th
 
 **Customers**: US Olympic and Paralympic Committee, National Governing Bodies: US Figure Skating, US Wrestling, USA Surfing, US Biathlon, US Gymnastics.
 
-**VALUATION**
-
-2025 Valuation. Here's how it breaks down:
-- **Revenue Two Years Ago**: $60,000
-- **Revenue Last Year**: $200,000
-- **Revenue This Year**: $300,000
-
-Assuming a conservative revenue multiple of 5x (which is quite typical for many startups), your startup’s valuation could be approximated as:
-
-- Two Years Ago: $60,000 * 5 = $300,000
-- Last Year: $200,000 * 5 = $1,000,000
-- This Year: $300,000 * 5 = $1,500,000
-
-### Season 1 Episode 2 - AGENTOMAT
+### AI Agents for Business - AGENTOMAT AaaS
 
 [![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
 
@@ -47,7 +48,7 @@ New AI platform to accelerate your AI solutions. If you are thinking of starting
 
 [Agents as a Service for Business (AaaS)](https://agentomat.com)
 
-### Season 1 Episode 3 - Livebook
+###  Livebook AI - E-Commerce AI
 
 [![Livebook](images/livebookai.jpg)](https://livebookai.com)
 
@@ -55,17 +56,17 @@ Livebook AI is the first publicly available AI Agent, that has been running cont
 
 [livebookai.com](https://livebookai.com)
 
-### Season 1 Episode 4 - 1+AI
+### 1+AI - New Business Model
 
 [![http://myaistartups.com](images/1plus-ai.jpg)](http://myaistartups.com)
 
 1+AI is a new buisiness model we offer to our customers, based on AI Blueprint platform we developed. Let us build your solution, using our 1+AI development model that consists of a single human engineer + AI. We deliver end-to-end AI solutions for businesses requiring deep AI expertise, AI Agents, Web and mobile applications using AI, AI Search, support and other custom solutions, on any cloud platform.
 
-
-#### 1+AI Showcase
+#### Our Showcase
 
 These projects were created by a single human + AI, based on AI Blueprint framework which includes a mobile Web app, customized flexible AI models, agents, security and more:
 
+- [Sportube](https://sportubeai.com) - Sport video analytics for YouTube videos
 - [AGENTOMAT](https://agentomat.com) - AI Agents as a Service (AaaS) - the easiest platform for AI agents
 - [AI Coaching](https://aicoaching.us) - AI Coaching is a platform for coaching with AI by US Olympic and Paralympic Committee 
 - [Livebook](https://livebookai.com) - First in the world publicly available AI Agent, running since 2022.
