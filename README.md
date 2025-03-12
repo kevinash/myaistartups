@@ -11,6 +11,8 @@ Our AI startup portfolio includes a diversified set of startups built with our A
 - [AI Coaching](https://aicoaching.us) - AI Coaching is a platform for coaching with AI by US Olympic and Paralympic Committee and more than 30+ professional sport teams
 - [Livebook](https://livebookai.com) - AI E-commerce - first in the world publicly available AI Agent, running since 2022.
 
+[![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
+
 Check My AI Startups video blogs for latest updates!
 
 ## My AI Startups - Venture Capital
@@ -21,7 +23,6 @@ How we invest - [Watch on YouTube](https://youtu.be/YbPU1ZQO82k)
 
 Stay tuned for the new show in town! My name is Kevin Ashley, in this video blog I'll share live stories of building AI startups from the ground up. For 11 years I worked at Microsoft, then on AI team at Google. I'll share my uncensored and unapologetic experience of building AI startups as it happens. In fact some of my new startups we'll start together as this podcast unfolds.
 
-[![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
 
 ## Sportube - Turn any video into AI agents
 
