@@ -14,25 +14,23 @@ Stay tuned for the new show in town! My name is Kevin Ashley, in this video blog
 
 [![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
 
-## My AI Startups Highlights - Sportube AI for YouTube 
+## Sportube - Turn any video into AI agents
 
 [![My AI Startups - Sportube AI for sport YouTube videos](images/sportube-ai-video.jpg)](https://youtu.be/3keuGaGksC4)
 
 Sportube AI - [Watch on YouTube](https://youtu.be/3keuGaGksC4)
 
-### Sportube AI analytics for any YouTube sport videos
+### Sportube AI analytics for YouTube sport videos
 
 Sportube AI provides professional insights for any YouTube sport videos. It's like having a professional AI coach that can answer your questions about YouTube sport videos, shorts, matches, sport events and competitions. 
 
-#### More videos about Sportube
+#### More about Sportube
 
 * [Sportube - Sport analytics for YouTube 2](https://youtu.be/vUVNPBxdrdE)
 * [Sportube - Sport analytics for YouTube 1](https://youtu.be/fJZriI9kFlI)
 * [Sportube - Intro 2](https://youtu.be/xu1al7CEg_k)
 * [Sportube - Intro 1](https://youtu.be/JRkqy7U6qkc)
 
-
-## My AI Startups - Our Startups 
 
 ### My AI Startups Highlights - AI Coaching
 
@@ -44,7 +42,7 @@ AI Coaching is our joint project with the US Olympic and Paralympic Committee th
 
 **Customers**: US Olympic and Paralympic Committee, National Governing Bodies: US Figure Skating, US Wrestling, USA Surfing, US Biathlon, US Gymnastics.
 
-### My AI Startups Highlights - AI Agents for Business - AGENTOMAT AaaS
+## My AI Startups Highlights - AI Agents for Business - AGENTOMAT AaaS
 
 [![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
 
