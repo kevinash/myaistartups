@@ -2,6 +2,15 @@
 
 MyAIStartups.com is a venture capital founded by real AI data scientists and engineers - we are not just investors - we ultimately know AI. Our investment strategy is based on AI Blueprint, the platform that lowers the risks, entry barriers and costs of launching your AI projects from scratch.
 
+## My AI Startups - Portfolio
+
+Our AI startup portfolio includes a diversified set of startups built with our AI Blueprint framework, which lowers investment costs and entry barriers for new technology. Here's some of the showcases:
+
+- [Sportube](https://sportubeai.com) - Sport analytics AI for YouTube and videos
+- [Agentomat](https://agentomat.com) - Business AI Agents as a Service (AaaS) 
+- [AI Coaching](https://aicoaching.us) - AI Coaching is a platform for coaching with AI by US Olympic and Paralympic Committee and more than 30+ professional sport teams
+- [Livebook](https://livebookai.com) - AI E-commerce - first in the world publicly available AI Agent, running since 2022.
+
 Check My AI Startups video blogs for latest updates!
 
 ## My AI Startups - Venture Capital
@@ -65,14 +74,5 @@ Livebook AI is the first publicly available AI Agent, that has been running cont
 [![http://myaistartups.com](images/1plus-ai.jpg)](http://myaistartups.com)
 
 1+AI is a new buisiness model we offer to our customers, based on AI Blueprint platform we developed. Let us build your solution, using our 1+AI development model that consists of a single human engineer + AI. We deliver end-to-end AI solutions for businesses requiring deep AI expertise, AI Agents, Web and mobile applications using AI, AI Search, support and other custom solutions, on any cloud platform.
-
-#### My AI Startups - Our Showcase
-
-These projects were created by a single human + AI, based on AI Blueprint framework which includes a mobile Web app, customized flexible AI models, agents, security and more:
-
-- [Sportube](https://sportubeai.com) - Sport video analytics for YouTube videos
-- [AGENTOMAT](https://agentomat.com) - AI Agents as a Service (AaaS) - the easiest platform for AI agents
-- [AI Coaching](https://aicoaching.us) - AI Coaching is a platform for coaching with AI by US Olympic and Paralympic Committee 
-- [Livebook](https://livebookai.com) - First in the world publicly available AI Agent, running since 2022.
 
 ## Stay tuned, SOON on YouTube and Linkedin
