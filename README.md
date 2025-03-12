@@ -1,8 +1,18 @@
 [![http://myaistartups.com](images/my-ai-startups-logo.png)](http://myaistartups.com)
 
-MyAIStartups.com is a venture capital group founded by real AI data scientists and engineers - we are not just investors - we ultimately know AI and products. For all startups in our portfolio, we offer AI Blueprint - the platform that lowers the risks, entry barriers and costs of launchinjg your AI projects  from scratch.
+MyAIStartups.com is a venture capital founded by real AI data scientists and engineers - we are not just investors - we ultimately know AI. Our investment strategy is based on AI Blueprint, the platform that lowers the risks, entry barriers and costs of launching your AI projects from scratch.
 
 Check My AI Startups video blogs for latest updates!
+
+## My AI Startups - Venture Capital
+
+[![My AI Startups - Our Startups Portfolio](images/myaistartups-s1e1.jpg)](https://youtu.be/YbPU1ZQO82k)
+
+How we invest - [Watch on YouTube](https://youtu.be/YbPU1ZQO82k)
+
+Stay tuned for the new show in town! My name is Kevin Ashley, in this video blog I'll share live stories of building AI startups from the ground up. For 11 years I worked at Microsoft, then on AI team at Google. I'll share my uncensored and unapologetic experience of building AI startups as it happens. In fact some of my new startups we'll start together as this podcast unfolds.
+
+[![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
 
 ## My AI Startups Highlights - Sportube AI for YouTube 
 
@@ -22,15 +32,7 @@ Sportube AI provides professional insights for any YouTube sport videos. It's li
 * [Sportube - Intro 1](https://youtu.be/JRkqy7U6qkc)
 
 
-## My AI Startups - Our Startups Portfolio
-
-[![My AI Startups - Our Startups Portfolio](images/myaistartups-s1e1.jpg)](https://youtu.be/YbPU1ZQO82k)
-
-How we invest - [Watch on YouTube](https://youtu.be/YbPU1ZQO82k)
-
-Stay tuned for the new show in town! My name is Kevin Ashley, in this video blog I'll share live stories of building AI startups from the ground up. For 11 years I worked at Microsoft, then on AI team at Google. I'll share my uncensored and unapologetic experience of building AI startups as it happens. In fact some of my new startups we'll start together as this podcast unfolds.
-
-[![http://myaistartups.com](images/myaistartups-portfolio.jpg)](http://myaistartups.com)
+## My AI Startups - Our Startups 
 
 ### My AI Startups Highlights - AI Coaching
 
