@@ -1,6 +1,6 @@
 [![http://myaistartups.com](images/my-ai-startups-logo.png)](http://myaistartups.com)
 
-MyAIStartups.com is a venture capital founded by real AI data scientists and engineers - we are not just investors - we ultimately know AI. Our investment strategy is based on AI Blueprint, the platform that lowers the risks, entry barriers and costs of launching your AI projects from scratch.
+MyAIStartups.com is a technology franchise and venture capital founded by real AI data scientists and engineers - we are not just investors - we ultimately know AI. Our investment strategy is based on AI Blueprint, the platform that lowers the risks, entry barriers and costs of launching your AI projects from scratch.
 
 ## My AI Startups - Portfolio
 
@@ -24,13 +24,13 @@ How we invest - [Watch on YouTube](https://youtu.be/YbPU1ZQO82k)
 Stay tuned for the new show in town! My name is Kevin Ashley, in this video blog I'll share live stories of building AI startups from the ground up. For 11 years I worked at Microsoft, then on AI team at Google. I'll share my uncensored and unapologetic experience of building AI startups as it happens. In fact some of my new startups we'll start together as this podcast unfolds.
 
 
-## Sportube video AI
+## Sportube
 
 [![My AI Startups - Sportube AI for sport YouTube videos](images/sportube-ai-video.jpg)](https://youtu.be/3keuGaGksC4)
 
-Sportube AI - [Watch on YouTube](https://youtu.be/3keuGaGksC4)
+Sportube - [Watch on YouTube](https://youtu.be/JRkqy7U6qkc)
 
-### Sportube AI analytics for YouTube sport videos
+### Sportube - turn any video into AI coach!
 
 Sportube AI provides professional insights for any YouTube sport videos. It's like having a professional AI coach that can answer your questions about YouTube sport videos, shorts, matches, sport events and competitions. 
 
